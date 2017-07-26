@@ -1,5 +1,5 @@
 ### Node Express Https Api 
--  参考链接 (http://www.appinn.com/markdown/)
+-  参考链接 (http://www.jianshu.com/p/853099ae2edd)
 - express  如何使用 HTTPS服务器
 ```$xslt
    HTTP: 超文本传输协议 (Hypertext transfer protocol) 是一种详细规定了浏览器和万维网服务器之间互相通信的规则，
